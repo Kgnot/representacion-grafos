@@ -1,0 +1,7 @@
+# CODEOWNERS file
+# Este archivo define quién es responsable del código en este repositorio
+# Más información: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Propietario por defecto de todo el código en el repositorio
+* @kgnot
+
